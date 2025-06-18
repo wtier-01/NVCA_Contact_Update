@@ -3,6 +3,9 @@
 *.key
 *.pem
 credentials.json
+Output/
+Data/
+logs/
 
 # Bytecode and temp files
 __pycache__/
